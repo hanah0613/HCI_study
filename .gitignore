@@ -134,4 +134,3 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 farm/
-carplate_ocr/
